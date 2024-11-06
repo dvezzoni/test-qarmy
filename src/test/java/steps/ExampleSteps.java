@@ -13,7 +13,11 @@ public class ExampleSteps {
     @Given("the user is on the home screen of Underc0de.org")
     public void theUserIsOnTheHomeScreenOfUndercDeOrg() {
         examplePage.navigateToMainURL();
-        examplePage.verifyHomeTitle();
+ okok
+         okoko
+         okokookok
+                 ok
+                 ok
     }
 
     @And("^the user click the \"(.*)\" button$")
